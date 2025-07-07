@@ -1,0 +1,22 @@
+ul {
+    list-style-type: none;
+    color: pink;
+    background-color: lightcyan;
+    padding: 50px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.header {
+    background-color: beige;
+    padding: 50px;
+    color: darkmagenta;
+    font-weight: bold;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
